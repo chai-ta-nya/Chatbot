@@ -1,0 +1,12 @@
+langchain
+ipykernel
+python-dotenv
+langchain_groq
+langchain_core
+langchain_community
+pypdf
+sentence-transformers
+langchain-text-splitters
+langchain_chroma
+langchain_classic
+rank_bm25
